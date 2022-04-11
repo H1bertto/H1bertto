@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# GitHub Stats:
+<div display="flex">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=H1bertto&show_icons=true&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1bertto&layout=compact&langs_count=5&theme=react"/>
+</div>
 <!--
 **H1bertto/H1bertto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
