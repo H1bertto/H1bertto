@@ -20,10 +20,31 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/> 
   </a>&nbsp;&nbsp;
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="margin-right: 10px;"/> 
+</p>
+
+## And  this AI stacks:
+
+<p align="left">
+  <a href="https://www.openai.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/openai-1.svg" alt="OpenAi" height="40" style="margin-right: 10px;"/> 
   </a>&nbsp;&nbsp;
 </p>
+<p align="left">
+  <a href="https://www.gemini.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/gemini-ai.svg" alt="Gemini" height="40" style="margin-right: 10px;"/> 
+  </a>&nbsp;&nbsp;
+</p>
+<p align="left">
+  <a href="https://www.mistral.ai/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/mistralai/mistral-common/blob/main/docs/assets/logo.svg" alt="Mistral" height="40" style="margin-right: 10px;"/> 
+  </a>&nbsp;&nbsp;
+</p>
+<p align="left">
+  <a href="https://www.groq.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/groq/groq-api-cookbook/blob/main/images/groq-logo.png" alt="Groq" height="40" style="margin-right: 10px;"/> 
+  </a>&nbsp;&nbsp;
+</p>
+
 # GitHub Stats:
 <div display="flex">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=H1bertto&show_icons=true&theme=dracula"/>
